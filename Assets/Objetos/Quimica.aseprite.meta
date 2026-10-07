@@ -1,0 +1,2291 @@
+fileFormatVersion: 2
+guid: 16a9d2eb3f00a1d4d9792906e37b2fbc
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 0
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 639207724687700229
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Quimica_Frame_0
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 502
+      height: 422
+    spriteID: f49d40fee90dbdd47ac02721357cd93f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: -12}
+  - name: Quimica_Frame_1
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 434
+      width: 502
+      height: 422
+    spriteID: 32cb85dcbbadc1143885f558f1743372
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 418}
+  - name: Quimica_Frame_2
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 864
+      width: 502
+      height: 422
+    spriteID: 6e15cfd00ae1ea64e822297bfc907754
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 848}
+  - name: Quimica_Frame_3
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1294
+      width: 502
+      height: 422
+    spriteID: 2408bec783aa13e4ab0468e1e0260e06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 1278}
+  - name: Quimica_Frame_4
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1724
+      width: 502
+      height: 422
+    spriteID: 63f7ce4c28719304cab25e2e15f93be0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 1708}
+  - name: Quimica_Frame_5
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2154
+      width: 502
+      height: 422
+    spriteID: 29b0d071fbf46f245ad5236e2eaa7f88
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 2138}
+  - name: Quimica_Frame_6
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2584
+      width: 502
+      height: 422
+    spriteID: dcf6a549a3e4cf341a23244028ae4fab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 2568}
+  - name: Quimica_Frame_7
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3014
+      width: 502
+      height: 422
+    spriteID: d55cb858cf42d6a4e9a1e96a055b2022
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 2998}
+  - name: Quimica_Frame_8
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3444
+      width: 502
+      height: 422
+    spriteID: 95e9a5bab11019c48904950a928d2868
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 3428}
+  - name: Quimica_Frame_9
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3874
+      width: 502
+      height: 422
+    spriteID: d25eb7f766e0bd24c97ebe296591ea16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 3858}
+  - name: Quimica_Frame_10
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4304
+      width: 502
+      height: 422
+    spriteID: c63cb85e4e1846e48bd319b7d2592f14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 4288}
+  - name: Quimica_Frame_11
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4734
+      width: 502
+      height: 422
+    spriteID: 64f6c8de1fc3f7048ba16a1fd372bfb5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 4718}
+  - name: Quimica_Frame_12
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5164
+      width: 502
+      height: 422
+    spriteID: bf30ea981b283a844ab5d552f2113dfb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 5148}
+  - name: Quimica_Frame_13
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5594
+      width: 502
+      height: 422
+    spriteID: 8e0f561c0a7f40647b7f0ea0ba63c9e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 5578}
+  - name: Quimica_Frame_14
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6024
+      width: 502
+      height: 422
+    spriteID: e2734e246d54f914d9ab40c46ec9a8ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 6008}
+  - name: Quimica_Frame_15
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6454
+      width: 502
+      height: 422
+    spriteID: 0231216b258cdd34f827b29a55a06b78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 6438}
+  - name: Quimica_Frame_16
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6884
+      width: 502
+      height: 422
+    spriteID: 31f1d8ac7ce09e14f9e1d20f898251f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 6868}
+  - name: Quimica_Frame_17
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7314
+      width: 502
+      height: 422
+    spriteID: ac135d5c07f9e6340a47148d0828e55b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 7298}
+  - name: Quimica_Frame_18
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7744
+      width: 502
+      height: 422
+    spriteID: e0708536caf80be4987a43d0b5af774d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 7728}
+  - name: Quimica_Frame_19
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 514
+      y: 4
+      width: 502
+      height: 422
+    spriteID: 42f181c38cddbec4bbb4ddf0f3dbf69a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: -12}
+  - name: Quimica_Frame_20
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 514
+      y: 434
+      width: 502
+      height: 422
+    spriteID: db78aca19a81e5f4fbd4276b48b4706a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: 418}
+  - name: Quimica_Frame_21
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 514
+      y: 864
+      width: 502
+      height: 422
+    spriteID: b1b1cfcb27155224796cf322e50cb729
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: 848}
+  - name: Quimica_Frame_22
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 514
+      y: 1294
+      width: 502
+      height: 422
+    spriteID: 3ddd051c837e3e4438f09d90d79b9946
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: 1278}
+  - name: Quimica_Frame_23
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 514
+      y: 1724
+      width: 502
+      height: 422
+    spriteID: fd4b9b96328e1294c930e349222c9358
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: 1708}
+  - name: Quimica_Frame_24
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 514
+      y: 2154
+      width: 502
+      height: 422
+    spriteID: cbe83f47c04de5942a9117d6f966ff9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: 2138}
+  - name: Quimica_Frame_25
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 514
+      y: 2584
+      width: 502
+      height: 422
+    spriteID: 36b7e6ccadef4dd46979501714cd1984
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: 2568}
+  - name: Quimica_Frame_26
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 514
+      y: 3014
+      width: 502
+      height: 422
+    spriteID: 7736827e4f0b10545935b78172400d58
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: 2998}
+  - name: Quimica_Frame_27
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 514
+      y: 3444
+      width: 502
+      height: 422
+    spriteID: 25e92eab11db68e4e9e20e28e2f43d47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: 3428}
+  - name: Quimica_Frame_28
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 514
+      y: 3874
+      width: 502
+      height: 422
+    spriteID: 401448c8ed86be848a443c683d3bd2d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: 3858}
+  - name: Quimica_Frame_29
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 514
+      y: 4304
+      width: 502
+      height: 422
+    spriteID: da73ab34dfc24b941a78a5d8930be297
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: 4288}
+  - name: Quimica_Frame_30
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 514
+      y: 4734
+      width: 502
+      height: 422
+    spriteID: 173e8b52d0fc30547884213662484565
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: 4718}
+  - name: Quimica_Frame_31
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 514
+      y: 5164
+      width: 502
+      height: 422
+    spriteID: fbb264362aa003647b39e836fd3f7d22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: 5148}
+  - name: Quimica_Frame_32
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 514
+      y: 5594
+      width: 502
+      height: 422
+    spriteID: 5ab36cdb2306e3a4d8a4ae4ceab070c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: 5578}
+  - name: Quimica_Frame_33
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 514
+      y: 6024
+      width: 502
+      height: 422
+    spriteID: 1577fbfb890d13e4b92b3d3d0a424830
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: 6008}
+  - name: Quimica_Frame_34
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 514
+      y: 6454
+      width: 502
+      height: 422
+    spriteID: 8ff1e0969f6b79b41a8e4d5382b63e4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: 6438}
+  - name: Quimica_Frame_35
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 514
+      y: 6884
+      width: 502
+      height: 422
+    spriteID: 0b9d297b02767264fa6d636dcffb09ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: 6868}
+  - name: Quimica_Frame_36
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 514
+      y: 7314
+      width: 502
+      height: 422
+    spriteID: 52f727e682c7acd4a8bd1fa941343742
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: 7298}
+  - name: Quimica_Frame_37
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 514
+      y: 7744
+      width: 502
+      height: 422
+    spriteID: 28f39fb8b13b4b744b2e8cd9af68e464
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 498, y: 7728}
+  - name: Quimica_Frame_38
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 4
+      width: 502
+      height: 422
+    spriteID: 8f892de0c5e97be4bb31bc8c37daf912
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: -12}
+  - name: Quimica_Frame_39
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 434
+      width: 502
+      height: 422
+    spriteID: 1504b40bdd293ee4d945ae3eb0c9f565
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 418}
+  - name: Quimica_Frame_40
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 864
+      width: 502
+      height: 422
+    spriteID: c1c914dc11c80384d8b3dcc321025017
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 848}
+  - name: Quimica_Frame_41
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 1294
+      width: 502
+      height: 422
+    spriteID: 356b1c5349e35444794ceb02ab3d8f5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 1278}
+  - name: Quimica_Frame_42
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 1724
+      width: 502
+      height: 422
+    spriteID: e66ab0621424b3840ba6b45e9722fac7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 1708}
+  - name: Quimica_Frame_43
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 2154
+      width: 502
+      height: 422
+    spriteID: ff741c294e3525a429deb05e55baebc2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 2138}
+  - name: Quimica_Frame_44
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 2584
+      width: 502
+      height: 422
+    spriteID: b700e7ebb91072a4c8433153ff1c4da7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 2568}
+  - name: Quimica_Frame_45
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 3014
+      width: 502
+      height: 422
+    spriteID: 31ea2fca9b5532647b5d75b001c1692f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 2998}
+  - name: Quimica_Frame_46
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 3444
+      width: 502
+      height: 422
+    spriteID: 3b3f031272f57ba449e76e93fd3c7079
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 3428}
+  - name: Quimica_Frame_47
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 3874
+      width: 502
+      height: 422
+    spriteID: f7f57fffac5cbfc479c4ebf7e7dfa39a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 3858}
+  - name: Quimica_Frame_48
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 4304
+      width: 502
+      height: 422
+    spriteID: 753aa8440a16208459804a637b516295
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 4288}
+  - name: Quimica_Frame_49
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 4734
+      width: 502
+      height: 422
+    spriteID: a8c70249334c1374398d0958d32d2ce5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 4718}
+  - name: Quimica_Frame_50
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 5164
+      width: 502
+      height: 422
+    spriteID: 48910987771350b4f99c88fb86e6df32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 5148}
+  - name: Quimica_Frame_51
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 5594
+      width: 502
+      height: 422
+    spriteID: 88502ef95ada56742b3a99907e583c1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 5578}
+  - name: Quimica_Frame_52
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 6024
+      width: 502
+      height: 422
+    spriteID: 972c43a5942d15e4aa735a0104c42361
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 6008}
+  - name: Quimica_Frame_53
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 6454
+      width: 502
+      height: 422
+    spriteID: 5ae82d3d62f99f84e9b9de5625f386e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 6438}
+  - name: Quimica_Frame_54
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 6884
+      width: 502
+      height: 422
+    spriteID: c9b1de29df3388c45bbef60c8ce96be3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 6868}
+  - name: Quimica_Frame_55
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 7314
+      width: 502
+      height: 422
+    spriteID: 858b9244356e2e4489457844db10e44b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 7298}
+  - name: Quimica_Frame_56
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1024
+      y: 7744
+      width: 502
+      height: 422
+    spriteID: 68106b252fc7b7746badae7dd2622af6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 7728}
+  - name: Quimica_Frame_57
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 4
+      width: 502
+      height: 422
+    spriteID: 677f87ff1890124408f6e0b659478b19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1518, y: -12}
+  - name: Quimica_Frame_58
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 434
+      width: 502
+      height: 422
+    spriteID: d7368b5f6135d2746ab04697d47c606c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1518, y: 418}
+  - name: Quimica_Frame_59
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 864
+      width: 502
+      height: 422
+    spriteID: 228db16865ee77842bce973744d78f51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1518, y: 848}
+  - name: Quimica_Frame_60
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 1294
+      width: 502
+      height: 422
+    spriteID: def5f808d70d9b74ea954da1b99b6f51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1518, y: 1278}
+  - name: Quimica_Frame_61
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 1724
+      width: 502
+      height: 422
+    spriteID: ac4be32fcfa58ef4b9a20014066491fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1518, y: 1708}
+  - name: Quimica_Frame_62
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 2154
+      width: 502
+      height: 422
+    spriteID: 29ceb8e0d8fe1bd41a472967f2ac0372
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1518, y: 2138}
+  - name: Quimica_Frame_63
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 2584
+      width: 502
+      height: 422
+    spriteID: 02b79a61fa7208c48b915e09fb9e227e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1518, y: 2568}
+  - name: Quimica_Frame_64
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 3014
+      width: 502
+      height: 422
+    spriteID: b7904b76d9d4b6841b3511ad4e299cea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1518, y: 2998}
+  - name: Quimica_Frame_65
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 3444
+      width: 502
+      height: 422
+    spriteID: a131c3fa3bdf76f478fa6e8e0ed168da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1518, y: 3428}
+  - name: Quimica_Frame_66
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 3874
+      width: 502
+      height: 422
+    spriteID: 0cca901b066a0484f810d373ce96c553
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1518, y: 3858}
+  - name: Quimica_Frame_67
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 4304
+      width: 502
+      height: 422
+    spriteID: eace4dc5051ca9d469f840095b13327b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1518, y: 4288}
+  - name: Quimica_Frame_68
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 4734
+      width: 502
+      height: 422
+    spriteID: 68690c412c6e96b41a053e1dc9229729
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1518, y: 4718}
+  - name: Quimica_Frame_69
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 5164
+      width: 502
+      height: 422
+    spriteID: cd3f5fbd5d57a5749b871872759d6291
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1518, y: 5148}
+  - name: Quimica_Frame_70
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 5594
+      width: 502
+      height: 422
+    spriteID: faff238e9399d82449efe86bd83d18ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1518, y: 5578}
+  - name: Quimica_Frame_71
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 6024
+      width: 502
+      height: 422
+    spriteID: ffce7b63220f9af4198109714b9879a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1518, y: 6008}
+  - name: Quimica_Frame_72
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 6454
+      width: 502
+      height: 422
+    spriteID: d8407b50e5345ad47b15623164d2501c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1518, y: 6438}
+  - name: Quimica_Frame_73
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 6884
+      width: 502
+      height: 422
+    spriteID: 7f366b935cd53c3429f6f29277b28ee3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1518, y: 6868}
+  - name: Quimica_Frame_74
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 7314
+      width: 502
+      height: 422
+    spriteID: cee4b8a5d738cde40b73d98673296fcb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1518, y: 7298}
+  - name: Quimica_Frame_75
+    originalName: 
+    pivot: {x: 0.49103588, y: 0.49407583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 7744
+      width: 502
+      height: 422
+    spriteID: 924ae34098a97744098d5e278bfff5a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1518, y: 7728}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1529148463
+    name: Quimica
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Quimica_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: f49d40fee90dbdd47ac02721357cd93f
+    - name: Quimica_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 32cb85dcbbadc1143885f558f1743372
+    - name: Quimica_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 6e15cfd00ae1ea64e822297bfc907754
+    - name: Quimica_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 2408bec783aa13e4ab0468e1e0260e06
+    - name: Quimica_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 63f7ce4c28719304cab25e2e15f93be0
+    - name: Quimica_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 29b0d071fbf46f245ad5236e2eaa7f88
+    - name: Quimica_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: dcf6a549a3e4cf341a23244028ae4fab
+    - name: Quimica_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: d55cb858cf42d6a4e9a1e96a055b2022
+    - name: Quimica_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 95e9a5bab11019c48904950a928d2868
+    - name: Quimica_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: d25eb7f766e0bd24c97ebe296591ea16
+    - name: Quimica_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: c63cb85e4e1846e48bd319b7d2592f14
+    - name: Quimica_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 64f6c8de1fc3f7048ba16a1fd372bfb5
+    - name: Quimica_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: bf30ea981b283a844ab5d552f2113dfb
+    - name: Quimica_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 8e0f561c0a7f40647b7f0ea0ba63c9e9
+    - name: Quimica_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: e2734e246d54f914d9ab40c46ec9a8ac
+    - name: Quimica_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 0231216b258cdd34f827b29a55a06b78
+    - name: Quimica_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 31f1d8ac7ce09e14f9e1d20f898251f1
+    - name: Quimica_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: ac135d5c07f9e6340a47148d0828e55b
+    - name: Quimica_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: e0708536caf80be4987a43d0b5af774d
+    - name: Quimica_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 42f181c38cddbec4bbb4ddf0f3dbf69a
+    - name: Quimica_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: db78aca19a81e5f4fbd4276b48b4706a
+    - name: Quimica_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: b1b1cfcb27155224796cf322e50cb729
+    - name: Quimica_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 3ddd051c837e3e4438f09d90d79b9946
+    - name: Quimica_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: fd4b9b96328e1294c930e349222c9358
+    - name: Quimica_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: cbe83f47c04de5942a9117d6f966ff9c
+    - name: Quimica_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 36b7e6ccadef4dd46979501714cd1984
+    - name: Quimica_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 7736827e4f0b10545935b78172400d58
+    - name: Quimica_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 25e92eab11db68e4e9e20e28e2f43d47
+    - name: Quimica_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 401448c8ed86be848a443c683d3bd2d1
+    - name: Quimica_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: da73ab34dfc24b941a78a5d8930be297
+    - name: Quimica_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 173e8b52d0fc30547884213662484565
+    - name: Quimica_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: fbb264362aa003647b39e836fd3f7d22
+    - name: Quimica_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 5ab36cdb2306e3a4d8a4ae4ceab070c5
+    - name: Quimica_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 1577fbfb890d13e4b92b3d3d0a424830
+    - name: Quimica_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 8ff1e0969f6b79b41a8e4d5382b63e4b
+    - name: Quimica_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 0b9d297b02767264fa6d636dcffb09ba
+    - name: Quimica_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 52f727e682c7acd4a8bd1fa941343742
+    - name: Quimica_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 28f39fb8b13b4b744b2e8cd9af68e464
+    - name: Quimica_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 8f892de0c5e97be4bb31bc8c37daf912
+    - name: Quimica_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 1504b40bdd293ee4d945ae3eb0c9f565
+    - name: Quimica_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: c1c914dc11c80384d8b3dcc321025017
+    - name: Quimica_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 356b1c5349e35444794ceb02ab3d8f5e
+    - name: Quimica_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: e66ab0621424b3840ba6b45e9722fac7
+    - name: Quimica_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: ff741c294e3525a429deb05e55baebc2
+    - name: Quimica_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: b700e7ebb91072a4c8433153ff1c4da7
+    - name: Quimica_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 31ea2fca9b5532647b5d75b001c1692f
+    - name: Quimica_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 3b3f031272f57ba449e76e93fd3c7079
+    - name: Quimica_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: f7f57fffac5cbfc479c4ebf7e7dfa39a
+    - name: Quimica_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 753aa8440a16208459804a637b516295
+    - name: Quimica_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: a8c70249334c1374398d0958d32d2ce5
+    - name: Quimica_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 48910987771350b4f99c88fb86e6df32
+    - name: Quimica_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 88502ef95ada56742b3a99907e583c1b
+    - name: Quimica_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 972c43a5942d15e4aa735a0104c42361
+    - name: Quimica_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 5ae82d3d62f99f84e9b9de5625f386e2
+    - name: Quimica_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: c9b1de29df3388c45bbef60c8ce96be3
+    - name: Quimica_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 858b9244356e2e4489457844db10e44b
+    - name: Quimica_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 68106b252fc7b7746badae7dd2622af6
+    - name: Quimica_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 677f87ff1890124408f6e0b659478b19
+    - name: Quimica_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: d7368b5f6135d2746ab04697d47c606c
+    - name: Quimica_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 228db16865ee77842bce973744d78f51
+    - name: Quimica_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: def5f808d70d9b74ea954da1b99b6f51
+    - name: Quimica_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: ac4be32fcfa58ef4b9a20014066491fa
+    - name: Quimica_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 29ceb8e0d8fe1bd41a472967f2ac0372
+    - name: Quimica_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 02b79a61fa7208c48b915e09fb9e227e
+    - name: Quimica_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: b7904b76d9d4b6841b3511ad4e299cea
+    - name: Quimica_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: a131c3fa3bdf76f478fa6e8e0ed168da
+    - name: Quimica_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 0cca901b066a0484f810d373ce96c553
+    - name: Quimica_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: eace4dc5051ca9d469f840095b13327b
+    - name: Quimica_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 68690c412c6e96b41a053e1dc9229729
+    - name: Quimica_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: cd3f5fbd5d57a5749b871872759d6291
+    - name: Quimica_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: faff238e9399d82449efe86bd83d18ae
+    - name: Quimica_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: ffce7b63220f9af4198109714b9879a9
+    - name: Quimica_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: d8407b50e5345ad47b15623164d2501c
+    - name: Quimica_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 7f366b935cd53c3429f6f29277b28ee3
+    - name: Quimica_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: cee4b8a5d738cde40b73d98673296fcb
+    - name: Quimica_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 0
+        y: 0
+        width: 525
+        height: 449
+      spriteId: 924ae34098a97744098d5e278bfff5a1
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 525, y: 449}
